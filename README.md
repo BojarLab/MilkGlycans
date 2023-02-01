@@ -1,2 +1,4 @@
 # MilkGlycans
-Code and data for constructing and analyzing biosynthetic networks from free milk oligosaccharides
+Additional code and data for constructing and analyzing biosynthetic networks from glycans, with the example of free milk oligosaccharides. Covers all the applications shown in our manuscript (Thomes et al., bioRxiv, 2023).
+In general, we recommend using the network module in the glycowork package to construct biosynthetic networks (using construct_network and plot_network for most routine applications).
+This notebook is intended as further documentation of the work described in the manuscript and will not be updated thereafter (all relevant functions are found within glycowork and will be maintained & developed there).
